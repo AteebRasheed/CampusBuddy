@@ -1,0 +1,27 @@
+{
+  "name": "Campus Buddy",
+  "displayName": "Campus Buddy",
+  "expo": {
+    "description": "A Social App for university students",
+    "primaryColor": "#20AF5E",
+    "icon": "./src/Constants/logo.png",
+    "splash": {
+      "image": "./src/Constants/splash.png",
+      "backgroundColor": "#000000",
+      "resizeMode": "contain"
+    },
+    "name": "Campus Buddy",
+    "slug": "CampusBuddy",
+    "ios": {
+      "bundleIdentifier": "com.asad.campusbuddy",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.asad.campusbuddy",
+      "versionCode": 1
+    },
+    "orientation": "portrait",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["*/"]
+  }
+}
